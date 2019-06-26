@@ -1,0 +1,141 @@
+70	Industrials
+	4	Industrial Conglomerates
+	5	Airlines
+	6	Building Products
+	4	Electrical Components & Equipment
+	12	Aerospace & Defense
+	4	Air Freight & Logistics
+	3	Construction Machinery & Heavy Trucks
+	2	Diversified Support Services
+	4	Railroads
+	12	Industrial Machinery
+	1	Agricultural & Farm Machinery
+	4	Research & Consulting Services
+	3	Construction & Engineering
+	1	Trucking
+	3	Environmental & Facilities Services
+	1	Human Resource & Employment Services
+	1	Trading Companies & Distributors
+62	Health Care
+	19	Health Care Equipment
+	10	Pharmaceuticals
+	8	Biotechnology
+	3	Health Care Supplies
+	6	Health Care Distributors
+	6	Managed Health Care
+	1	Health Care Technology
+	3	Health Care Services
+	3	Health Care Facilities
+	3	Life Sciences Tools & Services
+68	Information Technology
+	5	IT Consulting & Other Services
+	7	Application Software
+	13	Semiconductors
+	3	Internet Services & Infrastructure
+	5	Data Processing & Outsourced Services
+	2	Electronic Components
+	6	Technology Hardware, Storage & Peripherals
+	3	Semiconductor Equipment
+	5	Communications Equipment
+	9	Internet Software & Services
+	1	Data Processing & Outsources Services
+	2	Electronic Equipment & Instruments
+	3	Systems Software
+	2	Electronic Manufacturing Services
+	2	IT Services
+26	Communication Services
+	3	Interactive Home Entertainment
+	5	Interactive Media & Services
+	3	Integrated Telecommunication Services
+	3	Broadcasting
+	3	Cable & Satellite
+	5	Movies & Entertainment
+	2	Advertising
+	2	Publishing
+64	Consumer Discretionary
+	1	Automotive Retail
+	4	Internet & Direct Marketing Retail
+	2	Auto Parts & Equipment
+	6	Specialty Stores
+	1	Computer & Electronics Retail
+	1	Specialized Consumer Services
+	10	Apparel, Accessories & Luxury Goods
+	5	Hotels, Resorts & Cruise Lines
+	5	Restaurants
+	3	Homebuilding
+	4	General Merchandise Stores
+	5	Apparel Retail
+	2	Automobile Manufacturers
+	1	Consumer Electronics
+	1	Motorcycle Manufacturers
+	2	Leisure Products
+	2	Home Improvement Retail
+	2	Home Furnishings
+	1	Distributors
+	2	Department Stores
+	2	Casinos & Gaming
+	1	Housewares & Specialties
+	1	Household Appliances
+28	Utilities
+	2	Independent Power Producers & Energy Traders
+	13	Electric Utilities
+	11	Multi-Utilities
+	1	Water Utilities
+	1	Gas Utilities
+67	Financials
+	9	Asset Management & Custody Banks
+	6	Life & Health Insurance
+	7	Property & Casualty Insurance
+	4	Consumer Finance
+	4	Insurance Brokers
+	3	Multi-line Insurance
+	6	Diversified Banks
+	12	Regional Banks
+	2	Multi-Sector Holdings
+	7	Financial Exchanges & Data
+	5	Investment Banking & Brokerage
+	1	Reinsurance
+	1	Thrifts & Mortgage Finance
+26	Materials
+	2	Industrial Gases
+	8	Specialty Chemicals
+	5	Paper Packaging
+	1	Metal & Glass Containers
+	3	Fertilizers & Agricultural Chemicals
+	1	Commodity Chemicals
+	1	Diversified Chemicals
+	1	Copper
+	2	Construction Materials
+	1	Gold
+	1	Steel
+32	Real Estate
+	4	Office REITs
+	8	Specialized REITs
+	6	Residential REITs
+	1	Real Estate Services
+	2	Industrial REITs
+	6	Retail REITs
+	3	Health Care REITs
+	1	Hotel & Resort REITs
+	1	Specialized REITS
+33	Consumer Staples
+	2	Tobacco
+	1	Agricultural Products
+	2	Distillers & Vintners
+	12	Packaged Foods & Meats
+	4	Household Products
+	3	Soft Drinks
+	2	Hypermarkets & Super Centers
+	3	Personal Products
+	1	Food Retail
+	1	Brewers
+	1	Food Distributors
+	1	Drug Retail
+29	Energy
+	13	Oil & Gas Exploration & Production
+	5	Oil & Gas Equipment & Services
+	3	Integrated Oil & Gas
+	1	Oil & Gas Drilling
+	4	Oil & Gas Refining & Marketing
+	3	Oil & Gas Storage & Transportation
+Total number: 505
